@@ -10,7 +10,7 @@
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
-		<link rel="stylesheet" href="./assets/css/main.css" />
+		<link rel="stylesheet" href="assets/css/main.css" />
 		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
 		<!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
 		<meta name="author" content="Daniel | http://profoundideation.com">
@@ -23,18 +23,11 @@
 
 		gtag('config', 'UA-107584552-1');
 		</script>
-	</head>
-	<!-- Global Site Tag (gtag.js) - Google Analytics -->
-	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-107584552-1"></script>
-	<script>
-	window.dataLayer = window.dataLayer || [];
-	function gtag(){dataLayer.push(arguments);}
-	gtag('js', new Date());
 
-	gtag('config', 'UA-107584552-1');
-	</script>
+	</head>
 	<body>
-		<!-- Header -->
+
+		<!-- Header 
 			<header id="header">
 				<h1>Nootrition HUB</h1>
 				<nav>
@@ -47,7 +40,34 @@
 						<li><a href="#contact">Contact</a></li>
 					</ul>
 				</nav>
-			</header>
+			</header>-->
+
+
+
+<nav class="navbar navbar-inverse navbar-fixed-top">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navBar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>                        
+      </button>
+      <a class="navbar-brand" href="#">Nootrition HUB</a>
+    </div>
+    <div class="collapse navbar-collapse" id="navBar">
+      <ul class="nav navbar-nav navbar-right">
+        <li class="active"><a href="#">Home</a></li>
+        <li><a href="#">Shop</a></li>
+        <li><a href="#">About</a></li>
+        <li><a href="#">Tired?</a></li>
+        <li><a href="#">Blog</a></li>
+        <li><a href="#">Contact</a></li>
+      </ul>
+    </div>
+  </div>
+</nav>
+
+
 
 		<!-- Intro -->
 			<section id="intro" class="main style1 dark fullscreen">
@@ -62,21 +82,31 @@
 				</div>
 			</section>
 
-		<!-- One -->
+		<!-- One: Overwhelmed -->
 			<section id="one" class="main style2 right dark fullscreen">
-				<div class="content box style2">
+				<div class="content box style2" style="background-color:black;">
 					<header>
-						<h2>What Is Nootropics?</h2>
+						<h2 style="color:white;margin:auto;text-align:center;">Feeling Overwhelmed?</h2>
 					</header>
-					<p>Lorem ipsum dolor sit amet et sapien sed elementum egestas dolore condimentum.
-					Fusce blandit ultrices sapien, in accumsan orci rhoncus eu. Sed sodales venenatis arcu,
-					id varius justo euismod in. Curabitur egestas consectetur magna.</p>
+					<img src="assets/images/overWhelmed.png" style="width:35%;display:block;margin:auto;"></img>
+					<p style="color:white;margin:auto;text-align:center;">What if you could enhance your mental capacity?</p>
 				</div>
 				<a href="#two" class="button style2 down anchored">Next</a>
 			</section>
 
-		<!-- Two -->
+		<!-- Two: Overwhelmed -->
 			<section id="two" class="main style2 left dark fullscreen">
+				<div class="content box style2">
+					<header>
+						<h2 style="text-align:center;margin:auto;">Tired of the caffeine crash?</h2>
+					</header>
+					<img src="assets/images/caffeineCrash.png" style="padding-top:5%;width:35%;display:block;margin:auto;text-align:center;"></img>
+					<p style="text-align:center;margin:auto;">What if there was an alternative without any side effects?</p>
+				</div>
+				<a href="#three" class="button style2 down anchored">Next</a>
+			</section>
+
+			<section id="three" class="main style2 right dark fullscreen">
 				<div class="content box style2">
 					<header>
 						<h2>Benefits of Nootropics</h2>
@@ -85,7 +115,7 @@
 					Fusce blandit ultrices sapien, in accumsan orci rhoncus eu. Sed sodales venenatis arcu,
 					id varius justo euismod in. Curabitur egestas consectetur magna.</p>
 				</div>
-				<a href="#work" class="button style2 down anchored">Next</a>
+				<a href="#three" class="button style2 down anchored">Next</a>
 			</section>
 
 		<!-- Work -->
@@ -171,6 +201,9 @@
 			<script src="assets/js/util.js"></script>
 			<!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
 			<script src="assets/js/main.js"></script>
+				<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+			<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
 
 	</body>
 </html>
