@@ -1670,7 +1670,7 @@
 		left: 0;
 		top: 0;
 		width: 100%;
-		background: rgba(255, 255, 255, 0.95);
+		background: rgba(0, 0, 0, 0.75);
 		height: 3em;
 		line-height: 3em;
 		box-shadow: 0 0 0.15em 0 rgba(0, 0, 0, 0.1);
@@ -1683,6 +1683,7 @@
 			height: 3em;
 			line-height: 3em;
 			cursor: default;
+			color:#A29C9C;
 		}
 
 			#header h1 a {
@@ -1709,7 +1710,7 @@
 
 					#header nav ul li a {
 						display: block;
-						color: inherit;
+						color: #A29C9C;
 						text-decoration: none;
 						height: 3em;
 						line-height: 3em;
@@ -1753,6 +1754,11 @@
 				padding-top: 2.5em;
 			}
 
+		}
+
+		#leftlist{
+			text-align:left;
+			float:left;
 		}
 
 /* Main */
@@ -2093,7 +2099,7 @@
 /* Intro */
 
 	#intro {
-		background: url("images/overlay.png"), url("../../images/intro.jpg");
+		background: url("images/overlay.png"), url("../../assets/images/nootritionhub2.jpeg");
 		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, bottom center;
@@ -2121,6 +2127,11 @@
 /* Contact */
 
 	#contact {
+		background: url("images/overlay.png"), url("../../assets/images/Bottles.jpeg");
+	    background-size: 256px 256px, cover;
+		background-attachment: fixed, fixed;
+		background-position: top left, bottom center;
+		background-repeat: repeat, no-repeat;
 		overflow: hidden;
 		padding-bottom: 0;
 	}
@@ -2150,4 +2161,37 @@
 				padding-bottom: 2em;
 			}
 
+		}
+		#mailingList{
+			background-color:black;
+		}
+
+		ul.b{
+			list-style-type: square;
+		}
+
+		#leftList {
+			text-align:left;
+		}
+		#rightList{
+			text-align:left;
+		}
+		#work {
+		background: url("images/overlay.png"), url("../../assets/images/Chem.jpg");
+	    background-size: 256px 256px, cover;
+		background-attachment: fixed, fixed;
+		background-position: top left, bottom center;
+		background-repeat: repeat, no-repeat;
+		overflow: hidden;
+		padding-bottom: 0;
+		}
+
+		#opaqueBoxes {
+			background: url("images/overlay.png"), url("../../assets/images/nootritionhub9.jpeg");
+	    background-size: 256px 256px, cover;
+		background-attachment: fixed, fixed;
+		background-position: top left, bottom center;
+		background-repeat: repeat, no-repeat;
+		overflow: hidden;
+		padding-bottom: 0;
 		}
