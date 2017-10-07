@@ -243,7 +243,7 @@
       <div class="col-lg-6">
         <header>
           <h2><strong>CONTACT</h2>
-          <h3>info@mydomain.net</h3>
+          <h3>info@nootritionhub.com</h3>
           <h3>Tel: 1-800-000-000</strong></h3>
         </header>
       </div>
