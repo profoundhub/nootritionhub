@@ -151,15 +151,15 @@
 <section id="opaqueBoxes" class="main style1">
   <div class="container-fluid">
     <div class="row">
-      <div id="energyRelief" class="col-sm-4">
+      <div id="energyRelief" class="col-md-4">
         <h1>ENERGY</h1>
         <h2>STRESS RELIEF</h2>
       </div>
-      <div id="memoryProcessing" class="col-sm-4">
+      <div id="memoryProcessing" class="col-md-4">
         <h1>MEMORY</h1>
         <h2>PROCESSING</h2>
       </div>
-      <div id="visionFocus" class="col-sm-4">
+      <div id="visionFocus" class="col-md-4">
         <h1>VISION</h1>
         <h2>FOCUS</h2>
       </div>
