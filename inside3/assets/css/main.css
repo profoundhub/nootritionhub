@@ -2212,8 +2212,7 @@
 			background-color: black;
 		}
 
-		#energyRelief,  #memoryProcessing, #visionFocus {
+		#opaqueBoxes .row {
 			background-color: rgba(255,255,255,0.8);
-			display:inline-block;
-		 	margin:auto;
+		
 		}
