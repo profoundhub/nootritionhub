@@ -101,7 +101,7 @@
       <header>
         <h1 style="background-color: rgba(255,255,255,0.8)">BENEFITS OF NOOTROPICS</h1>
       </header>
-      <div class="col-sm-6 ">
+      <div class="col-md-6 ">
         <ul class="b" id="leftList">
           <li>
             <p>Helps improve short & long term memory.</p>
@@ -123,7 +123,7 @@
           </li>
         </ul>
       </div>
-      <div class="col-sm-6">
+      <div class="col-md-6">
         <ul class="b" id="rightList">
           <li>
             <p>Promotes an optimized state of mind; allowing calm & controlled thoughts.</p>
@@ -151,15 +151,15 @@
 <section id="opaqueBoxes" class="main style1">
   <div class="container-fluid">
     <div class="row">
-      <div id="energyRelief" class="col-sm-4">
+      <div id="energyRelief" class="col-md-4">
         <h1>ENERGY</h1>
         <h2>STRESS RELIEF</h2>
       </div>
-      <div id="memoryProcessing" class="col-sm-4">
+      <div id="memoryProcessing" class="col-md-4">
         <h1>MEMORY</h1>
         <h2>PROCESSING</h2>
       </div>
-      <div id="visionFocus" class="col-sm-4">
+      <div id="visionFocus" class="col-md-4">
         <h1>VISION</h1>
         <h2>FOCUS</h2>
       </div>
