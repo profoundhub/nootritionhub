@@ -2,6 +2,10 @@
 <!--
 	Big Picture by HTML5 UP
 	html5up.net | @ajlkn
+	Free for personal an<!DOCTYPE HTML>
+<!--
+	Big Picture by HTML5 UP
+	html5up.net | @ajlkn
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 -->
 <html>
@@ -49,7 +53,7 @@
           <li><a href="shop.php">Shop</a></li>
           <li><a href="about.php">About</a></li>
           
-          <?php /*
+          <?php
           <li><a href="#">Tired?</a></li>
           <li><a href="#">Blog</a></li>
           <li><a href="#">Contact</a></li> 
