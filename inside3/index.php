@@ -66,60 +66,69 @@
 
 
   <section id="imageboxes" class="main ">
+<<<<<<< HEAD
     <div class="row">
       <div id="overWhelmed" style="background-color:black;height: 100%;" class="col-sm-4">
+=======
+   <div class="contaner-fluid">
+    <div class="row" style="">
+
+      <div id="overWhelmed" style="background-color:#000000;" class="col-md-4">
+>>>>>>> origin/master
         <!--Overwhelmed Picture-->
         <img src="assets/images/overWhelmed.png" style="padding-top:5%;width:20%;display:block;margin:auto;"></img>
         <h3 style="color:white; text-align:center;"> Feeling Overwhelmed?</h3>
 
-        <h4 style="color:white;text-align:center;padding-bottom:5%"> What if you could enhance your mental capacity?</h4>
+        <h3 style="color:white;text-align:center;padding-bottom:7%"> What if you could enhance your mental capacity?</h3>
 
       </div>
-      <div id="caffeineCrash" class="col-sm-4">
+      <div id="caffeineCrash" class="col-md-4">
         <!-- Caffeine Picture -->
         <img src="assets/images/caffeineCrash.png" style="padding-top:5%;width:20%;display:block;margin:auto;"></img>
         <h3 style="text-align:center;">Tired of the Caffeine Crash?</h3>
-        <h4 style="text-align:center;padding-bottom:5%">What if there was an alternative without any side effects?</h4>
+        <h3 style="text-align:center;padding-bottom:2%">What if there was an alternative without any side effects?</h3>
       </div>
-      <div id="lackingEnergy" style="background-color:#6FAA08" class="col-sm-4">
+      <div id="lackingEnergy" style="background-color:#6FAA08;" class="col-md-4">
         <!-- Energy Picture -->
         <img src="assets/images/lackingEnergy.png" style="padding-top:5%;width:20%;display:block;margin:auto;"></img>
         <h3 style="color:white;text-align:center;">Lacking Energy?</h3>
-        <h4 style="color:white;text-align:center;padding-bottom:5%">What if you could sustain peak performance throughout the day?</h4>
+        <h3 style="color:white;text-align:center;padding-bottom:2%">What if you could sustain peak performance throughout the day?</h3>
       </div>
     </div>
   </section>
 
 
+
+
   <!-- Work -->
-  <section id="work2" class="main style3 primary ">
-    <div class="content box">
-      <header>
-        <h1 style="background-color: rgba(255,255,255,0.8)">BENEFITS OF NOOTROPICS</h1>
-      </header>
-      <div class="col-md-6 ">
+
+  <section id="work2" class="main style3 primary fullscreen ">
+  	 <div  id="listBox" class="content box fullscreen">
+  	 <div class="col-md-6 ">
+
         <ul class="b" id="leftList">
           <li>
-            <p>Helps improve short & long term memory.</p>
+            <h3>Helps improve short & long term memory.</h3>
           </li>
           <li>
-            <p>Expands peripheral vision.</p>
+            <h3>Expands peripheral vision.</h3>
           </li>
           <li>
-            <p>Enhances mental focus and mental stamina.</p>
+            <h3>Enhances mental focus and mental stamina.</h3>
           </li>
           <li>
-            <p>Relieves mental fatigue, sensation of weakness, & irritability.</p>
+            <h3>Relieves mental fatigue, sensation of weakness, & irritability.</h3>
           </li>
           <li>
-            <p>Helps relieve nervousness & increase sociability.</p>
+            <h3>Helps relieve nervousness & increase sociability.</h3>
           </li>
           <li>
-            <p>Helps increase resistance to stress/anxiety.</p>
+           <h3>Helps increase resistance to stress/anxiety.</h3>
           </li>
         </ul>
       </div>
-      <div class="col-md-6">
+   <div class="col-md-6">
+
         <ul class="b" id="rightList">
           <li>
             <p>Promotes an optimized state of mind; allowing calm & controlled thoughts.</p>
@@ -141,61 +150,81 @@
           </li>
         </ul>
       </div>
-    </div>
+</div>
   </section>
 
-<section id="opaqueBoxes" class="main style1">
+
+
+<section id="opaqueBoxes" class="main style1" style="padding-bottom:3%;">
   <div class="container-fluid">
+  	<div class="content">
     <div class="row">
-      <div id="energyRelief" class="col-md-4">
-        <h1>ENERGY</h1>
-        <h2>STRESS RELIEF</h2>
+
+      <div id="energyRelief" class="col-xl-4" style="
+    margin: 10px;
+    padding: 20px;
+    background-color: azure;
+    display:inline-block;">
+        <h1><strong>ENERGY</strong></h1>
+        <h1>STRESS RELIEF</h1>
       </div>
-      <div id="memoryProcessing" class="col-md-4">
-        <h1>MEMORY</h1>
-        <h2>PROCESSING</h2>
+      <div id="memoryProcessing" class="col-xl-4" style="
+    margin: 10px;
+    padding: 20px;
+    background-color: azure;
+    display:inline-block;">
+        <h1><strong>MEMORY</strong></h1>
+        <h1>PROCESSING</h1>
       </div>
-      <div id="visionFocus" class="col-md-4">
-        <h1>VISION</h1>
-        <h2>FOCUS</h2>
+      <div id="visionFocus" class="col-xl-4" style="
+    margin: 10px;
+    padding: 20px;
+    background-color: azure;
+    display:inline-block;">
+        <h1><strong>VISION</strong></h1>
+        <h1>FOCUS</h1>
+
       </div>
     </div>
   </div>
+</div>
   </section>
 
+ <section id="mastermindTitle" class="main style1 dark ">
+ <h1 style="text-align:center;background-color:black;padding-top:1%;padding-bottom:1%;"><strong> <span style="display:inline-block;color:green;">INTRODUCING</span> <span style="color:white;"> MASTERMIND</span> </strong></h1>
+</section>
 
-  <section id="mastermindTitle" class="main style1 dark">
-    <header class="main style1 dark">
-      <h1 style="text-align:center;display:inline-block;color:white;">INTRODUCING MASTERMIND</h1>
-    </header>
-  </section>
-
-
-  <!-- Work -->
-  <section id="mastermind" class="main style3  primary fullscreen">
-    <div class="content">
-      <header>
+  <section id="mastermind" class="main style1 dark fullscreen">
+  	<!--<div class="row">
         <h3 style="color:white;">Breakthrough brain enhancer that instantaneously upgrades your memory, focus, physical and mental energy. An all natural herbal solution blend using the world’s highest and most effective ingredients. Raw unaltered product data, 100% backed by clinical research. One of
 							a kind certified product that offers an unmatched value and quality.</h3>
-      </header>
+						</div>
+  	<div class="content">
+  		<div class="container-fluid"> 
+  			<div class="row">
+        <h3 style="color:white;">Breakthrough brain enhancer that instantaneously upgrades your memory, focus, physical and mental energy. An all natural herbal solution blend using the world’s highest and most effective ingredients. Raw unaltered product data, 100% backed by clinical research. One of
+							a kind certified product that offers an unmatched value and quality.</h3>
+						</div>
+      
       <div class="row">
-        <div class="col-sm-6">
+        <div class="col-md-6">
           <img style="width:35%;" src="assets/images/ashwaganda.png">
 
         </div>
-        <div class="col-sm-6">
+        <div class="col-md-6">
           <ul>
             <li>
               <h1 style="color:white;text-align:center;">Ashwagandha</h1></li>
           </ul>
         </div>
       </div>
+
       <br/>
       <div class="row">
-        <div class="col-sm-6">
+        <div class="col-md-6">
           <img style="width:35%;" src="assets/images/ginseng.png">
         </div>
-        <div class="col-sm-6">
+        <div class="col-md-6">
           <ul>
             <li>
               <h1 style="color:white;text-align:center;">Cereboost American Ginseng</h1></li>
@@ -204,10 +233,10 @@
       </div>
       <br/>
       <div class="row">
-        <div class="col-sm-6">
+        <div class="col-md-6">
           <img style="width:35%;" src="assets/images/ginkgo.png">
         </div>
-        <div class="col-sm-6">
+        <div class="col-md-6">
           <ul>
             <li>
               <h1 style="color:white;text-align:center;">Ginkgo Biloba</h1></li>
@@ -216,10 +245,10 @@
       </div>
       <br/>
       <div class="row">
-        <div class="col-sm-6">
+        <div class="col-md-6">
           <img style="width:35%;" src="assets/images/rhodiola.png">
         </div>
-        <div class="col-sm-6">
+        <div class="col-md-6">
           <ul>
             <li>
               <h1 style="color:white;text-align:center;">Rhodolia Rosea</h1></li>
@@ -227,11 +256,16 @@
         </div>
       </div>
 
-
     </div>
 
-    </div>
+    </div>-->
   </section>
+
+
+
+
+
+
 
   <!-- Contact -->
   <section id="contact" class="main style3 dark secondary">
