@@ -1943,7 +1943,6 @@
 			.main.style2 .content {
 				width: 60%;
 			}
-
 		}
 
 		@media screen and (max-width: 736px) {
@@ -1986,15 +1985,12 @@
 				text-align: center;
 				padding: 3em 10px 3em 10px;
 			}
-
 		}
 
 		@media screen and (max-width: 480px) {
-
 			.main > .content {
 				max-width: calc(100% - 1.5em);
 			}
-
 		}
 
 /* Footer */
@@ -2198,7 +2194,7 @@
 		}
 
 		#work2 {
-		background: url("images/overlay.png"), url("../../assets/images/veg.jpg");
+		background: url("images/overlay.png"), url("../../assets/images/veg-bg.jpeg");		
 	    background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, bottom center;
