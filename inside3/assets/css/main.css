@@ -1879,7 +1879,7 @@
 
 		.main.style3 {
 			text-align: center;
-			padding: 6em 0 6em 0;
+			/* padding: 10em 0 1em 0; */
 		}
 
 			.main.style3 .content > header {
@@ -2214,7 +2214,15 @@
 		}
 
 		#listBox{
+			/*
 			width: 72em;
 			max-width: calc(100% - 4em);
-			margin: 18% auto;
+			margin: 1px auto; 
+			*/
+
+			width: 100%;
+			/* max-width: calc(100% - 4em); */
+			margin: 100px auto;
+			/* top: -179px; */
+			position: relative;
 		}
