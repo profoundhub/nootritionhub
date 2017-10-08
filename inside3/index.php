@@ -69,40 +69,53 @@
   </section>
 
 
-  <section id="imageboxes" class="main ">
+  <section id="imageboxes" class="main">
    <div class="contaner-fluid">
-    <div class="row" style="">
+    <div class="row">
 
-      <div id="overWhelmed" style="background-color:#000000;" class="col-md-4">
+      <div id="overWhelmed" style="background-color:#000000;" class="col-md-4 boxes">
         <!--Overwhelmed Picture-->
         <img src="assets/images/overWhelmed.png" style="padding-top:5%;width:20%;display:block;margin:auto;"></img>
         <h3 style="color:white; text-align:center;"> Feeling Overwhelmed?</h3>
 
         <h3 style="color:white;text-align:center;padding-bottom:7%"> What if you could enhance your mental capacity?</h3>
-
       </div>
-      <div id="caffeineCrash" class="col-md-4">
+
+
+      <div id="caffeineCrash" style="background-color:white;" class="col-md-4 boxes">
         <!-- Caffeine Picture -->
         <img src="assets/images/caffeineCrash.png" style="padding-top:5%;width:20%;display:block;margin:auto;"></img>
         <h3 style="text-align:center;">Tired of the Caffeine Crash?</h3>
         <h3 style="text-align:center;padding-bottom:2%">What if there was an alternative without any side effects?</h3>
       </div>
-      <div id="lackingEnergy" style="background-color:#6FAA08;" class="col-md-4">
+
+      <div id="lackingEnergy" style="background-color:#6FAA08;" class="col-md-4 boxes">
         <!-- Energy Picture -->
         <img src="assets/images/lackingEnergy.png" style="padding-top:5%;width:20%;display:block;margin:auto;"></img>
         <h3 style="color:white;text-align:center;">Lacking Energy?</h3>
         <h3 style="color:white;text-align:center;padding-bottom:2%">What if you could sustain peak performance throughout the day?</h3>
       </div>
+  	</div>
     </div>
   </section>
 
 
 
 
+
+
   <!-- Work -->
+
   <section id="work2" class="main style3 primary fullscreen ">
-  	 <div  id="listBox" class="content box fullscreen">
+
+  </section>
+
+
+<section id="work3" class="main style1 primary ">
+  <div   class="content">
+  	<div class="container-fluid">
   	 <div class="col-md-6 ">
+
         <ul class="b" id="leftList">
           <li>
             <h3>Helps improve short & long term memory.</h3>
@@ -122,32 +135,36 @@
           <li>
            <h3>Helps increase resistance to stress/anxiety.</h3>
           </li>
+           <li>
+            <h3>Promotes an optimized state of mind; allowing calm & controlled thoughts.</h3>
+          </li>
         </ul>
       </div>
    <div class="col-md-6">
+
         <ul class="b" id="rightList">
+         
           <li>
-            <p>Promotes an optimized state of mind; allowing calm & controlled thoughts.</p>
+            <h3>Increases energy levels and as a result improves mood.</h3>
           </li>
           <li>
-            <p>Increases energy levels and as a result improves mood.</p>
+            <h3>Increases blood flow, libido, & endurance.</h3>
           </li>
           <li>
-            <p>Increases blood flow, libido, & endurance.</p>
+            <h3>Sustains peak levels of stamina and strength.</h3>
           </li>
           <li>
-            <p>Sustains peak levels of stamina and strength.</p>
+            <h3>Sources of an amino acid involved in muscle protein synthesis.</h3>
           </li>
           <li>
-            <p>Sources of an amino acid involved in muscle protein synthesis.</p>
-          </li>
-          <li>
-            <p>Extensively studied for its benefits for people with Alzheimer's disease, dementia, and Parkinson's.</p>
+            <h3>Extensively studied for its benefits for people with Alzheimer's disease, dementia, and Parkinson's.</h3>
           </li>
         </ul>
       </div>
+  </div>
 </div>
-  </section>
+</section>
+
 
 
 
@@ -155,7 +172,12 @@
   <div class="container-fluid">
   	<div class="content">
     <div class="row">
+<<<<<<< HEAD
+      <div id="energyRelief" class="col-xl-4 boxes" style="
+=======
+
       <div id="energyRelief" class="col-xl-4" style="
+>>>>>>> fd0a91b9ffe8594d209ebc8e9798e2eff3e319d7
     margin: 10px;
     padding: 20px;
     background-color: azure;
@@ -163,7 +185,7 @@
         <h1><strong>ENERGY</strong></h1>
         <h1>STRESS RELIEF</h1>
       </div>
-      <div id="memoryProcessing" class="col-xl-4" style="
+      <div id="memoryProcessing" class="col-xl-4 boxes" style="
     margin: 10px;
     padding: 20px;
     background-color: azure;
@@ -171,13 +193,14 @@
         <h1><strong>MEMORY</strong></h1>
         <h1>PROCESSING</h1>
       </div>
-      <div id="visionFocus" class="col-xl-4" style="
+      <div id="visionFocus" class="col-xl-4 boxes" style="
     margin: 10px;
     padding: 20px;
     background-color: azure;
     display:inline-block;">
         <h1><strong>VISION</strong></h1>
         <h1>FOCUS</h1>
+
       </div>
     </div>
   </div>
@@ -188,18 +211,18 @@
  <h1 style="text-align:center;background-color:black;padding-top:1%;padding-bottom:1%;"><strong> <span style="display:inline-block;color:green;">INTRODUCING</span> <span style="color:white;"> MASTERMIND</span> </strong></h1>
 </section>
 
-  <section id="mastermind" class="main style1 dark fullscreen">
-  	<!--<div class="row">
+
+
+
+
+      <section id="mastermind" class="main style1 dark fullscreen">
+      	<div id="mastermindcontent" class="content box fullscreen">
+  <div class="content">
+      <header>
         <h3 style="color:white;">Breakthrough brain enhancer that instantaneously upgrades your memory, focus, physical and mental energy. An all natural herbal solution blend using the world’s highest and most effective ingredients. Raw unaltered product data, 100% backed by clinical research. One of
 							a kind certified product that offers an unmatched value and quality.</h3>
-						</div>
-  	<div class="content">
-  		<div class="container-fluid"> 
-  			<div class="row">
-        <h3 style="color:white;">Breakthrough brain enhancer that instantaneously upgrades your memory, focus, physical and mental energy. An all natural herbal solution blend using the world’s highest and most effective ingredients. Raw unaltered product data, 100% backed by clinical research. One of
-							a kind certified product that offers an unmatched value and quality.</h3>
-						</div>
-      
+      </header>
+  </div>
       <div class="row">
         <div class="col-md-6">
           <img style="width:35%;" src="assets/images/ashwaganda.png">
@@ -212,7 +235,6 @@
           </ul>
         </div>
       </div>
-
       <br/>
       <div class="row">
         <div class="col-md-6">
@@ -250,9 +272,10 @@
         </div>
       </div>
 
+
     </div>
 
-    </div>-->
+    </div>
   </section>
 
 
@@ -267,7 +290,7 @@
       <div class="col-lg-6">
         <header>
           <h2><strong>CONTACT</h2>
-          <h3>info@mydomain.net</h3>
+          <h3>info@nootritionhub.com</h3>
           <h3>Tel: 1-800-000-000</strong></h3>
         </header>
       </div>
