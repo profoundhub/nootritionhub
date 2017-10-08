@@ -57,14 +57,12 @@
 
   <!-- Intro -->
   <section id="intro" class="main style1 dark fullscreen">
-    <div class="content">
+    <div class="content" style="margin-left:35%;font-family: 'Montserrat', sans-serif;">
       <header>
         <h2>ADVANCED NOOTRITION</h2>
       </header>
       <h3>Helping you understand the benefits of Nootropics</h3>
-      <footer>
-        <a href="#imageboxes" class="button style2 down">More</a>
-      </footer>
+  
     </div>
   </section>
 
@@ -105,7 +103,12 @@
 
 
   <!-- Work -->
-  <section id="work2" class="main style3 primary fullscreen ">
+  <section id="work2" class="main style3 primary">
+  	<div class="content" style="padding-bottom:5%">
+  		<div class="container-fluid">
+  			<h1 style="background-color:rgba(255,255,255,0.85);text-align:center;color:black;padding-top:2%;padding-bottom:2%;font-family: 'Montserrat', sans-serif;">Benefits of Nootropics</h1>
+  	</div>
+  </div>
 
   </section>
 
@@ -186,8 +189,8 @@
         <h1>PROCESSING</h1>
       </div>
       <div id="visionFocus" class="col-xl-4 boxes" style="
-    margin-bottom: -99999px;
-    padding-bottom: 99999px;
+    margin: 10px;
+    padding: 20px;
     background-color: azure;
     display:inline-block;">
         <h1><strong>VISION</strong></h1>
@@ -199,15 +202,11 @@
   </section>
 
  <section id="mastermindTitle" class="main style1 dark ">
- <h1 style="text-align:center;background-color:black;padding-top:1%;padding-bottom:1%;"><strong> <span style="display:inline-block;color:green;">INTRODUCING</span> <span style="color:white;"> MASTERMIND</span> </strong></h1>
+ <h1 style="text-align:center;background-color:black;padding-top:1%;padding-bottom:1%;font-family: 'Montserrat', sans-serif;"><strong> <span style="display:inline-block;color:green;">INTRODUCING</span> <span style="color:white;"> MASTERMIND</span> </strong></h1>
 </section>
 
-
-
-
-
-      <section id="mastermind" class="main style1 dark fullscreen">
-      	<div id="mastermindcontent" class="content box fullscreen">
+      <section id="mastermind" class="main style1 dark">
+      	<div id="mastermindcontent" class="content box ">
   <div class="content">
       <header>
         <h3 style="color:white;">Breakthrough brain enhancer that instantaneously upgrades your memory, focus, physical and mental energy. An all natural herbal solution blend using the world’s highest and most effective ingredients. Raw unaltered product data, 100% backed by clinical research. One of
@@ -348,8 +347,9 @@
   <script src="assets/js/main.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
   <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+  <link href="https://fonts.googleapis.com/css?family=Anton" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Montserrat:600" rel="stylesheet">
 
-<!-- Hello-->
 </body>
 
 </html>

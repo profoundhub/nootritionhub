@@ -2233,3 +2233,10 @@
     padding-bottom: 99999px;
     overflow:hidden;
 		}
+
+		#leftList #rightList {
+			margin-right:25%;
+			margin-left:25%;
+			padding-right:25%;
+
+		}
