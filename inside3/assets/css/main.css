@@ -2198,7 +2198,7 @@
 		}
 
 		#work2 {
-		background: url("images/overlay.png"), url("../../assets/images/chemicals.jpeg");
+		background: url("images/overlay.png"), url("../../assets/images/veg.jpg");
 	    background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, bottom center;
@@ -2215,4 +2215,10 @@
 		#opaqueBoxes .row {
 			background-color: rgba(255,255,255,0.8);
 		
+		}
+
+		#listBox{
+			width: 72em;
+			max-width: calc(100% - 4em);
+			margin: 18% auto;
 		}
