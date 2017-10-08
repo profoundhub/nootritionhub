@@ -192,9 +192,27 @@
   <section id="mastermindTitle" class="main style1 dark ">
     <h1 style="text-align:center;background-color:black;padding-top:1%;padding-bottom:1%;"><strong> <span style="display:inline-block;color:green;">INTRODUCING</span> <span style="color:white;"> MASTERMIND</span> </strong></h1>
   </section>
+  <?php /*
+  <div class="content">
+      <div class="container-fluid">
+        <div class="row" style="
+    /* opacity: 0.5; */
+    filter: alpha(opacity=50); /* For IE8 and earlier */
+    /* background: rgba(255, 255, 255, 0.5) url(/images/arrow.png) no-repeat 0 50%; */
+    background: url(&quot;images/overlay.png&quot;), url(&quot;../../assets/images/nootritionhub2.jpeg&quot;);">
+          <div class="col-md-10 col-md-offset-1">
+            <h3 style="color:white;">Breakthrough brain enhancer that instantaneously upgrades your memory, focus, physical and mental energy. An all natural herbal solution blend using the world’s highest and most effective ingredients. Raw unaltered product data, 100% backed by clinical research. One of
+              a kind certified product that offers an unmatched value and quality.</h3>
+          </div><!-- col-md-10 col-md-offset-1 -->
+        </div><!-- row -->
+      </div><!-- container-fluid -->
+    </div>
+
+    */ ?>
 
   <section id="mastermind" class="main style1 dark fullscreen">
-    
+  <?php /*
+    <div class="content">
       <div class="container-fluid">
         <div class="row">
           <div class="col-md-10 col-md-offset-1">
@@ -203,6 +221,8 @@
           </div><!-- col-md-10 col-md-offset-1 -->
         </div><!-- row -->
       </div><!-- container-fluid -->
+    </div>
+  */ ?>
 
     <div class="content">
       <div class="container-fluid">
@@ -214,6 +234,17 @@
             </div><!-- col-md-10 col-md-offset-1 -->
           </div><!-- row -->
         */ ?>
+
+        <div class="row">
+          <div class="col-md-10 col-md-offset-1">
+          <?php /*
+          <div class="col-md-10 col-md-offset-1">
+          */ ?>
+
+            <h3 style="color:white;">Breakthrough brain enhancer that instantaneously upgrades your memory, focus, physical and mental energy. An all natural herbal solution blend using the world’s highest and most effective ingredients. Raw unaltered product data, 100% backed by clinical research. One of
+              a kind certified product that offers an unmatched value and quality.</h3>
+          </div><!-- col-md-10 col-md-offset-1 -->
+        </div><!-- row -->
 
         <div class="row">
           <div class="col-md-6">
@@ -290,7 +321,6 @@
 
       </div><!-- container-fluid -->
     </div><!-- content -->
-
   </section>
 
 
@@ -334,7 +364,6 @@
     </div>
   </section>
 
-
   <!-- Footer -->
   <footer id="footer">
 
@@ -353,7 +382,6 @@
       <li>&copy; NootritionHUB</li>
       <li>Design: <a href="profoundideation.com/2017/" target="_blank" rel="muse">AK</a></li>
     </ul>
-
   </footer>
 
   <!-- Scripts -->
