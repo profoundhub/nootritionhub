@@ -194,10 +194,7 @@
   </section>
 
   <section id="mastermind" class="main style1 dark fullscreen">
-    <div class="row">
-      <h3 style="color:white;">Breakthrough brain enhancer that instantaneously upgrades your memory, focus, physical and mental energy. An all natural herbal solution blend using the world’s highest and most effective ingredients. Raw unaltered product data, 100% backed by clinical research. One of
-							a kind certified product that offers an unmatched value and quality.</h3>
-    </div>
+    
     <div class="content">
       <div class="container-fluid">
         <div class="row">
@@ -208,53 +205,61 @@
         <div class="row">
           <div class="col-md-6">
             <img style="width:35%;" src="assets/images/ashwaganda.png">
-
           </div>
           <div class="col-md-6">
             <ul>
               <li>
-                <h1 style="color:white;text-align:center;">Ashwagandha</h1></li>
+                <h1 style="color:white;text-align:center;">Ashwagandha</h1>
+              </li>
             </ul>
           </div>
-        </div>
+        </div><!-- row -->
 
-        <br/>
+          <br/>
+
         <div class="row">
           <div class="col-md-6">
             <img style="width:35%;" src="assets/images/ginseng.png">
-          </div>
+          </div><!-- col-md-6 -->
           <div class="col-md-6">
             <ul>
               <li>
-                <h1 style="color:white;text-align:center;">Cereboost American Ginseng</h1></li>
+                <h1 style="color:white;text-align:center;">Cereboost American Ginseng</h1>
+              </li>
             </ul>
-          </div>
-        </div>
-        <br/>
+          </div><!-- col-md-6 -->
+        </div><!-- row -->
+        
+          <br/>
+        
         <div class="row">
           <div class="col-md-6">
             <img style="width:35%;" src="assets/images/ginkgo.png">
-          </div>
+          </div><!-- col-md-6 -->
           <div class="col-md-6">
             <ul>
               <li>
-                <h1 style="color:white;text-align:center;">Ginkgo Biloba</h1></li>
+                <h1 style="color:white;text-align:center;">Ginkgo Biloba</h1>
+              </li>
             </ul>
-          </div>
-        </div>
-        <br/>
+          </div><!-- col-md-6 -->
+        </div><!-- row -->
+
+          <br/>
+
         <div class="row">
           <div class="col-md-6">
             <img style="width:35%;" src="assets/images/rhodiola.png">
-          </div>
+          </div><!-- col-md-6 -->
           <div class="col-md-6">
             <ul>
               <li>
-                <h1 style="color:white;text-align:center;">Rhodolia Rosea</h1></li>
+                <h1 style="color:white;text-align:center;">Rhodolia Rosea</h1>
+              </li>
             </ul>
-          </div>
-        </div>
-
+          </div><!-- col-md-6 -->
+        </div><!-- row -->
+        
       </div>
 
     </div>
