@@ -53,7 +53,7 @@
           <li><a href="shop.php">Shop</a></li>
           <li><a href="about.php">About</a></li>
           
-          <?php
+          <?php /*
           <li><a href="#">Tired?</a></li>
           <li><a href="#">Blog</a></li>
           <li><a href="#">Contact</a></li> 
@@ -259,7 +259,7 @@
       </div>
     </div>
   */ ?>
-  
+
     <div class="content">
       <div class="container-fluid">
         <?php /*

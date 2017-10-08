@@ -51,9 +51,10 @@
           <li><a href="about.php">About</a></li>
           
           <?php /*
-          <li><a href="#">Tired?</a></li>
-          <li><a href="#">Blog</a></li>
-          <li><a href="#">Contact</a></li> */ ?>
+            <li><a href="#">Tired?</a></li>
+            <li><a href="#">Blog</a></li>
+            <li><a href="#">Contact</a></li> 
+          */ ?>
         </ul>
       </div>
     </div>
@@ -61,6 +62,27 @@
 
   <!-- Intro -->
   <section id="intro" class="main style1 dark fullscreen">
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col-md-6">&nbsp;</div>
+      <div class="col-md-6">&nbsp;</div>
+      <?php /*
+      <div class="col-md-6">
+        <div class="content-x">
+          <header>
+            <h2>ADVANCED NOOTRITION</h2>
+          </header>
+          <h3>Helping you understand the benefits of Nootropics</h3>
+          <footer>
+            <a href="#imageboxes" class="button style2 down">More</a>
+          </footer>
+        </div>
+      </div> */ ?>
+    </div><!-- row -->
+  </div><!-- container-fluid -->
+
+  <?php /*
+  */ ?>
     <div class="content">
       <header>
         <h2>ADVANCED NOOTRITION</h2>
@@ -78,8 +100,8 @@
     <div class="container-fluid">
       <div class="row" style="">
 
-        <div id="overWhelmed" style="background-color:#000000;height: 100%;" class="col-md-4">
-          <!--Overwhelmed Picture-->
+        <div id="overWhelmed" style="background-color:#000000;" class="col-md-4">
+          <!-- Overwhelmed Picture -->
           <img src="assets/images/overWhelmed.png" style="padding-top:5%;width:20%;display:block;margin:auto;"></img>
           <h3 style="color:white; text-align:center;"> Feeling Overwhelmed?</h3>
 
@@ -90,13 +112,13 @@
           <!-- Caffeine Picture -->
           <img src="assets/images/caffeineCrash.png" style="padding-top:5%;width:20%;display:block;margin:auto;"></img>
           <h3 style="text-align:center;">Tired of the Caffeine Crash?</h3>
-          <h3 style="text-align:center;padding-bottom:2%">What if there was an alternative without any side effects?</h3>
+          <h3 style="text-align:center;">What if there was an alternative without any side effects?</h3>
         </div>
-        <div id="lackingEnergy" style="background-color:#808080;eight: 100%;" class="col-md-4">
+        <div id="lackingEnergy" style="background-color: #000000; height: 249px;" class="col-md-4">
           <!-- Energy Picture -->
           <img src="assets/images/lackingEnergy.png" style="padding-top:5%;width:20%;display:block;margin:auto;"></img>
           <h3 style="color:white;text-align:center;">Lacking Energy?</h3>
-          <h3 style="color:white;text-align:center;padding-bottom:2%">What if you could sustain peak performance throughout the day?</h3>
+          <h3 style="color:white;text-align:center;">What if you could sustain peak performance throughout the day?</h3>
         </div>
       </div>
   </section>
@@ -158,7 +180,7 @@
   </section>
 
 
-  <section id="opaqueBoxes" class="main style1" style="padding-bottom:3%;">
+  <section id="opaqueBoxes" class="main style1" style="padding-bottom:3%; border-top: 10px solid #dadada;">
     <div class="container-fluid">
       <div class="content">
         <div class="row">
@@ -246,7 +268,7 @@
           </div><!-- col-md-6 -->
         </div><!-- row -->
 
-          <br/>
+          <br />
 
         <div class="row">
           <div class="col-md-6">
@@ -261,7 +283,7 @@
           </div><!-- col-md-6 -->
         </div><!-- row -->
         
-          <br/>
+          <br />
         
         <div class="row">
           <div class="col-md-6">
@@ -276,7 +298,7 @@
           </div><!-- col-md-6 -->
         </div><!-- row -->
 
-          <br/>
+          <br />
 
         <div class="row">
           <div class="col-md-6">
@@ -291,7 +313,7 @@
           </div><!-- col-md-6 -->
         </div><!-- row -->
 
-        <br/>
+        <br />
 
         <div class="row">
           <div class="col-md-6">
@@ -312,7 +334,7 @@
 
 
   <!-- Contact -->
-  <section id="contact" class="main style3 dark secondary">
+  <section id="contact" class="main style3 dark secondary" style="border-top: 10px solid #dadada; border-bottom: 10px solid #dadada;">  
     <div class="content">
       <div class="col-lg-6">
         <header>
@@ -336,7 +358,7 @@
     </div>
   </section>
 
-  <section id="mailingList" class="main style3 secondary dark">
+  <section id="mailingList" class="main style3 secondary dark" style="padding: 50px;">
     <div class="content">
       <header>
         <h2>JOIN OUR MAILING LIST</h2>
@@ -382,8 +404,5 @@
   <script src="assets/js/main.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
   <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
-
-
 </body>
-
 </html>
