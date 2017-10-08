@@ -76,7 +76,7 @@
         <img src="assets/images/overWhelmed.png" style="padding-top:5%;width:20%;display:block;margin:auto;"></img>
         <h3 style="color:white; text-align:center;"> Feeling Overwhelmed?</h3>
 
-        <h3 style="color:white;text-align:center;padding-bottom:7%"> What if you could enhance your mental capacity?</h3>
+        <h3 style="color:white;text-align:center;padding-bottom:7%;margin-left:5%;margin-right:5%;"> What if you could enhance your mental capacity?</h3>
       </div>
 
 
@@ -84,14 +84,14 @@
         <!-- Caffeine Picture -->
         <img src="assets/images/caffeineCrash.png" style="padding-top:5%;width:20%;display:block;margin:auto;"></img>
         <h3 style="text-align:center;">Tired of the Caffeine Crash?</h3>
-        <h3 style="text-align:center;padding-bottom:2%">What if there was an alternative without any side effects?</h3>
+        <h3 style="text-align:center;padding-bottom:2%;margin-left:5%;margin-right:5%;">What if there was an alternative without any side effects?</h3>
       </div>
 
       <div id="lackingEnergy" style="background-color:#6FAA08;" class="col-md-4 boxes">
         <!-- Energy Picture -->
         <img src="assets/images/lackingEnergy.png" style="padding-top:5%;width:20%;display:block;margin:auto;"></img>
         <h3 style="color:white;text-align:center;">Lacking Energy?</h3>
-        <h3 style="color:white;text-align:center;padding-bottom:2%">What if you could sustain peak performance throughout the day?</h3>
+        <h3 style="color:white;text-align:center;padding-bottom:2%;margin-left:5%;margin-right:5%;">What if you could sustain peak performance throughout the day?</h3>
       </div>
   	</div>
     </div>
@@ -104,9 +104,9 @@
 
   <!-- Work -->
   <section id="work2" class="main style3 primary">
-  	<div class="content" style="padding-bottom:5%">
-  		<div class="container-fluid">
-  			<h1 style="background-color:rgba(255,255,255,0.85);text-align:center;color:black;padding-top:2%;padding-bottom:2%;font-family: 'Montserrat', sans-serif;">Benefits of Nootropics</h1>
+  	<div class="content" style="padding-bottom:5%;width:100%;">
+  		<div class="container-fluid" style="background-color:rgba(255,255,255,0.85);">
+  			<h1 style="text-align:center;color:black;padding-top:2%;padding-bottom:2%;font-family: 'Montserrat', sans-serif;">Benefits of Nootropics</h1>
   	</div>
   </div>
 
@@ -119,25 +119,25 @@
   	 <div class="col-md-6 ">
         <ul class="b" id="leftList">
           <li>
-            <h3>Helps improve short & long term memory.</h3>
+            <h4>Helps improve short & long term memory.</h4>
           </li>
           <li>
-            <h3>Expands peripheral vision.</h3>
+            <h4>Expands peripheral vision.</h4>
           </li>
           <li>
-            <h3>Enhances mental focus and mental stamina.</h3>
+            <h4>Enhances mental focus and mental stamina.</h4>
           </li>
           <li>
-            <h3>Relieves mental fatigue, sensation of weakness, & irritability.</h3>
+            <h4>Relieves mental fatigue, sensation of weakness, & irritability.</h4>
           </li>
           <li>
-            <h3>Helps relieve nervousness & increase sociability.</h3>
+            <h4>Helps relieve nervousness & increase sociability.</h4>
           </li>
           <li>
-           <h3>Helps increase resistance to stress/anxiety.</h3>
+           <h4>Helps increase resistance to stress/anxiety.</h4>
           </li>
            <li>
-            <h3>Promotes an optimized state of mind; allowing calm & controlled thoughts.</h3>
+            <h4>Promotes an optimized state of mind; allowing calm & controlled thoughts.</h4>
           </li>
         </ul>
       </div>
@@ -145,19 +145,19 @@
         <ul class="b" id="rightList">
          
           <li>
-            <h3>Increases energy levels and as a result improves mood.</h3>
+            <h4>Increases energy levels and as a result improves mood.</h4>
           </li>
           <li>
-            <h3>Increases blood flow, libido, & endurance.</h3>
+            <h4>Increases blood flow, libido, & endurance.</h4>
           </li>
           <li>
-            <h3>Sustains peak levels of stamina and strength.</h3>
+            <h4>Sustains peak levels of stamina and strength.</h4>
           </li>
           <li>
-            <h3>Sources of an amino acid involved in muscle protein synthesis.</h3>
+            <h4>Sources of an amino acid involved in muscle protein synthesis.</h4>
           </li>
           <li>
-            <h3>Extensively studied for its benefits for people with Alzheimer's disease, dementia, and Parkinson's.</h3>
+            <h4>Extensively studied for its benefits for people with Alzheimer's disease, dementia, and Parkinson's.</h4>
           </li>
         </ul>
       </div>
@@ -206,7 +206,7 @@
 </section>
 
       <section id="mastermind" class="main style1 dark">
-      	<div id="mastermindcontent" class="content box ">
+      	<div id="mastermindcontent" class="content box" style="margin-bottom:5%;">
   <div class="content">
       <header>
         <h3 style="color:white;">Breakthrough brain enhancer that instantaneously upgrades your memory, focus, physical and mental energy. An all natural herbal solution blend using the world’s highest and most effective ingredients. Raw unaltered product data, 100% backed by clinical research. One of
