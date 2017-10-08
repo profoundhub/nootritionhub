@@ -100,12 +100,11 @@
 
   <!-- Work -->
 
-  <div class="col-md-12">
-      <h3>BENEFITS OF NOOTROPICS</h3>
-    </div>
-
   <section id="work2" class="main style3 primary fullscreen ">
     <div id="listBox" class="content box fullscreen">
+    <div class="col-md-12">
+        <h3>BENEFITS OF NOOTROPICS</h3>
+      </div>
       <div class="col-md-6">
         <ul class="b" id="leftList">
           <li>
