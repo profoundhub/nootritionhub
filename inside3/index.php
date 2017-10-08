@@ -30,7 +30,13 @@
     gtag("config", "UA-107584552-1");
   </script>
 </head>
-
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+  <script>
+    (adsbygoogle = window.adsbygoogle || []).push({
+      google_ad_client: "ca-pub-2490173776997871",
+      enable_page_level_ads: true
+    });
+  </script>
 <body>
   <nav class="navbar navbar-inverse navbar-fixed-top">
     <div class="container-fluid">
