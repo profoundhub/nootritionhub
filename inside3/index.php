@@ -26,11 +26,8 @@
     
     gtag("config", "UA-107584552-1");
   </script>
-
 </head>
-
 <body>
-
   <nav class="navbar navbar-inverse navbar-fixed-top">
     <div class="container-fluid">
       <div class="navbar-header">
@@ -44,8 +41,8 @@
       <div class="collapse navbar-collapse" id="navBar">
         <ul class="nav navbar-nav navbar-right">
           <li class="active"><a href="#">Home</a></li>
-          <li><a href="#">Shop</a></li>
-          <li><a href="#">About</a></li>
+          <li><a href="shop.php">Shop</a></li>
+          <li><a href="about.php">About</a></li>
           <li><a href="#">Tired?</a></li>
           <li><a href="#">Blog</a></li>
           <li><a href="#">Contact</a></li>
@@ -53,7 +50,6 @@
       </div>
     </div>
   </nav>
-
 
   <!-- Intro -->
   <section id="intro" class="main style1 dark fullscreen">
@@ -71,7 +67,7 @@
 
   <section id="imageboxes" class="main ">
     <div class="row">
-      <div id="overWhelmed" style="background-color:black" class="col-sm-4">
+      <div id="overWhelmed" style="background-color:black;height: 100%;" class="col-sm-4">
         <!--Overwhelmed Picture-->
         <img src="assets/images/overWhelmed.png" style="padding-top:5%;width:20%;display:block;margin:auto;"></img>
         <h3 style="color:white; text-align:center;"> Feeling Overwhelmed?</h3>
