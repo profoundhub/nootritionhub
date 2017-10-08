@@ -105,7 +105,6 @@
 
 
   <!-- Work -->
-
   <section id="work2" class="main style3 primary fullscreen ">
 
   </section>
@@ -115,7 +114,6 @@
   <div   class="content">
   	<div class="container-fluid">
   	 <div class="col-md-6 ">
-
         <ul class="b" id="leftList">
           <li>
             <h3>Helps improve short & long term memory.</h3>
@@ -141,7 +139,6 @@
         </ul>
       </div>
    <div class="col-md-6">
-
         <ul class="b" id="rightList">
          
           <li>
@@ -172,12 +169,7 @@
   <div class="container-fluid">
   	<div class="content">
     <div class="row">
-<<<<<<< HEAD
       <div id="energyRelief" class="col-xl-4 boxes" style="
-=======
-
-      <div id="energyRelief" class="col-xl-4" style="
->>>>>>> fd0a91b9ffe8594d209ebc8e9798e2eff3e319d7
     margin: 10px;
     padding: 20px;
     background-color: azure;
@@ -194,13 +186,12 @@
         <h1>PROCESSING</h1>
       </div>
       <div id="visionFocus" class="col-xl-4 boxes" style="
-    margin: 10px;
-    padding: 20px;
+    margin-bottom: -99999px;
+    padding-bottom: 99999px;
     background-color: azure;
     display:inline-block;">
         <h1><strong>VISION</strong></h1>
         <h1>FOCUS</h1>
-
       </div>
     </div>
   </div>
@@ -290,7 +281,7 @@
       <div class="col-lg-6">
         <header>
           <h2><strong>CONTACT</h2>
-          <h3>info@nootritionhub.com</h3>
+          <h3>info@mydomain.net</h3>
           <h3>Tel: 1-800-000-000</strong></h3>
         </header>
       </div>
