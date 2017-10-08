@@ -5,7 +5,6 @@
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 -->
 <html>
-
 <head>
   <title>ADVANCED NOOTRITION | Nootrition HUB</title>
   <meta charset="utf-8" />
@@ -53,38 +52,29 @@
           <?php /*
           <li><a href="#">Tired?</a></li>
           <li><a href="#">Blog</a></li>
-          <li><a href="#">Contact</a></li> */ ?>
+          <li><a href="#">Contact</a></li> 
+          */ ?>
         </ul>
       </div>
     </div>
   </nav>
-
   <!-- Intro -->
   <section id="intro" class="main style1 dark fullscreen">
-    <div class="content">
+    <div class="content" style="margin-left:35%;font-family: 'Montserrat', sans-serif;">
       <header>
         <h2>ADVANCED NOOTRITION</h2>
       </header>
-      <h3>Helping you understand the benefits of Nootropics</h3>
-      <footer>
-        <a href="#imageboxes" class="button style2 down">More</a>
-      </footer>
+      <h3>Helping you understand the benefits of Nootropics</h3>  
     </div>
   </section>
-
-
-  <section id="imageboxes" class="main ">
-
+  <section id="imageboxes" class="main">
     <div class="container-fluid">
       <div class="row" style="">
-
         <div id="overWhelmed" style="background-color:#000000;height: 100%;" class="col-md-4">
           <!--Overwhelmed Picture-->
           <img src="assets/images/overWhelmed.png" style="padding-top:5%;width:20%;display:block;margin:auto;"></img>
           <h3 style="color:white; text-align:center;"> Feeling Overwhelmed?</h3>
-
           <h3 style="color:white;text-align:center;padding-bottom:7%"> What if you could enhance your mental capacity?</h3>
-
         </div>
         <div id="caffeineCrash" class="col-md-4">
           <!-- Caffeine Picture -->
@@ -101,9 +91,13 @@
       </div>
   </section>
 
-
   <!-- Work -->
-
+  <section id="work2" class="main style3 primary">
+  	<div class="content" style="padding-bottom:5%;width:100%;">
+  		<div class="container-fluid" style="background-color:rgba(255,255,255,0.85);">
+  			<h1 style="text-align:center;color:black;padding-top:2%;padding-bottom:2%;font-family: 'Montserrat', sans-serif;">Benefits of Nootropics</h1>
+  	</div>
+  </div>
   <section id="work2" class="main style3 primary fullscreen ">
     <div id="listBox" class="content box fullscreen">
     <div class="col-md-12">
@@ -131,70 +125,61 @@
           </li>
         </ul>
       </div>
-
       <div class="col-md-6">
         <ul class="b" id="rightList">
+         
           <li>
-            <p>Promotes an optimized state of mind; allowing calm & controlled thoughts.</p>
+            <h4>Increases energy levels and as a result improves mood.</h4>
           </li>
           <li>
-            <p>Increases energy levels and as a result improves mood.</p>
+            <h4>Increases blood flow, libido, & endurance.</h4>
           </li>
           <li>
-            <p>Increases blood flow, libido, & endurance.</p>
+            <h4>Sustains peak levels of stamina and strength.</h4>
           </li>
           <li>
-            <p>Sustains peak levels of stamina and strength.</p>
+            <h4>Sources of an amino acid involved in muscle protein synthesis.</h4>
           </li>
           <li>
-            <p>Sources of an amino acid involved in muscle protein synthesis.</p>
-          </li>
-          <li>
-            <p>Extensively studied for its benefits for people with Alzheimer's disease, dementia, and Parkinson's.</p>
+            <h4>Extensively studied for its benefits for people with Alzheimer's disease, dementia, and Parkinson's.</h4>
           </li>
         </ul>
       </div>
     </div>
   </section>
-
-
   <section id="opaqueBoxes" class="main style1" style="padding-bottom:3%;">
     <div class="container-fluid">
       <div class="content">
         <div class="row">
-
-          <div id="energyRelief" class="col-xl-4" style="
-              margin: 10px;
-              padding: 20px;
-              background-color: azure;
-              display:inline-block;">
-            <h1><strong>ENERGY</strong></h1>
-            <h1>STRESS RELIEF</h1>
-          </div>
-          <div id="memoryProcessing" class="col-xl-4" style="
-              margin: 10px;
-              padding: 20px;
-              background-color: azure;
-              display:inline-block;">
-            <h1><strong>MEMORY</strong></h1>
-            <h1>PROCESSING</h1>
-          </div>
-          <div id="visionFocus" class="col-xl-4" style="
-              margin: 10px;
-              padding: 20px;
-              background-color: azure;
-              display:inline-block;">
-            <h1><strong>VISION</strong></h1>
-            <h1>FOCUS</h1>
-
-          </div>
-        </div>
+          <div id="energyRelief" class="col-xl-4 boxes" style="
+            margin: 10px;
+            padding: 20px;
+            background-color: azure;
+            display:inline-block;">
+        <h1><strong>ENERGY</strong></h1>
+        <h1>STRESS RELIEF</h1>
+      </div>
+      <div id="memoryProcessing" class="col-xl-4 boxes" style="
+    margin: 10px;
+    padding: 20px;
+    background-color: azure;
+    display:inline-block;">
+        <h1><strong>MEMORY</strong></h1>
+        <h1>PROCESSING</h1>
+      </div>
+      <div id="visionFocus" class="col-xl-4 boxes" style="
+          margin: 10px;
+          padding: 20px;
+          background-color: azure;
+          display:inline-block;">
+        <h1><strong>VISION</strong></h1>
+        <h1>FOCUS</h1>
       </div>
     </div>
   </section>
 
-  <section id="mastermindTitle" class="main style1 dark ">
-    <h1 style="text-align:center;background-color:black;padding-top:1%;padding-bottom:1%;"><strong> <span style="display:inline-block;color:green;">INTRODUCING</span> <span style="color:white;"> MASTERMIND</span> </strong></h1>
+  <section id="mastermindTitle" class="main style1 dark">
+    <h1 style="text-align:center;background-color:black;padding-top:1%;padding-bottom:1%;font-family: 'Montserrat', sans-serif;"><strong> <span style="display:inline-block;color:green;">INTRODUCING</span> <span style="color:white;"> MASTERMIND</span> </strong></h1>
   </section>
   
   <section id="mastermind" class="main style1 dark fullscreen">
@@ -203,14 +188,74 @@
       <div class="container-fluid">
         <div class="row">
           <div class="col-md-10 col-md-offset-1">
-            <h3 style="color:white;">Breakthrough brain enhancer that instantaneously upgrades your memory, focus, physical and mental energy. An all natural herbal solution blend using the world’s highest and most effective ingredients. Raw unaltered product data, 100% backed by clinical research. One of
-              a kind certified product that offers an unmatched value and quality.</h3>
+            <h3 style="color:white;">Breakthrough brain enhancer that instantaneously upgrades your memory, focus, physical and mental energy. An all natural herbal solution blend using the world’s highest and most effective ingredients. Raw unaltered product data, 100% backed by clinical research. One of a kind certified product that offers an unmatched value and quality.</h3>
           </div><!-- col-md-10 col-md-offset-1 -->
         </div><!-- row -->
       </div><!-- container-fluid -->
+
+      =======
+
+  <section id="mastermindTitle" class="main style1 dark">
+    <h1 style="text-align:center;background-color:black;padding-top:1%;padding-bottom:1%;font-family: 'Montserrat', sans-serif;"><strong> <span style="display:inline-block;color:green;">INTRODUCING</span> <span style="color:white;"> MASTERMIND</span> </strong></h1>
+  </section>
+      <section id="mastermind" class="main style1 dark">
+      	<div id="mastermindcontent" class="content box" style="margin-bottom:5%;">
+          <div class="content">
+            <header>
+              <h3 style="color:white;">Breakthrough brain enhancer that instantaneously upgrades your memory, focus, physical and mental energy. An all natural herbal solution blend using the world’s highest and most effective ingredients. Raw unaltered product data, 100% backed by clinical research. One of a kind certified product that offers an unmatched value and quality.</h3>
+            </header>
+          </div>
+      <div class="row">
+        <div class="col-md-6">
+          <img style="width:35%;" src="assets/images/ashwaganda.png">
+        </div>
+        <div class="col-md-6">
+          <ul>
+            <li>
+              <h1 style="color:white;text-align:center;">Ashwagandha</h1>
+            </li>
+          </ul>
+        </div>
+      </div>
+      <br/>
+      <div class="row">
+        <div class="col-md-6">
+          <img style="width:35%;" src="assets/images/ginseng.png">
+        </div>
+        <div class="col-md-6">
+          <ul>
+            <li>
+              <h1 style="color:white;text-align:center;">Cereboost American Ginseng</h1></li>
+          </ul>
+        </div>
+      </div>
+      <br/>
+      <div class="row">
+        <div class="col-md-6">
+          <img style="width:35%;" src="assets/images/ginkgo.png">
+        </div>
+        <div class="col-md-6">
+          <ul>
+            <li>
+              <h1 style="color:white;text-align:center;">Ginkgo Biloba</h1></li>
+          </ul>
+        </div>
+      </div>
+      <br/>
+      <div class="row">
+        <div class="col-md-6">
+          <img style="width:35%;" src="assets/images/rhodiola.png">
+        </div>
+        <div class="col-md-6">
+          <ul>
+            <li>
+              <h1 style="color:white;text-align:center;">Rhodolia Rosea</h1></li>
+          </ul>
+        </div>
+      </div>
     </div>
   */ ?>
-
+  
     <div class="content">
       <div class="container-fluid">
         <?php /*
@@ -309,8 +354,6 @@
       </div><!-- container-fluid -->
     </div><!-- content -->
   </section>
-
-
   <!-- Contact -->
   <section id="contact" class="main style3 dark secondary">
     <div class="content">
@@ -363,14 +406,12 @@
       <li><a href="https://goo.gl/NGSccw" target="_blank" class="icon fa-pinterest"><span class="label">Pinterest</span></a></li>
       <li><a href="https://goo.gl/e39SJM" target="_blank" class="icon fa fa-google-plus"><span class="label">Google+</span></a></li>
     </ul>
-
     <!-- Menu -->
     <ul class="menu">
       <li>&copy; NootritionHUB</li>
       <li>Design: <a href="profoundideation.com/2017/" target="_blank" rel="muse">AK</a></li>
     </ul>
   </footer>
-
   <!-- Scripts -->
   <script src="assets/js/jquery.min.js"></script>
   <script src="assets/js/jquery.poptrox.min.js"></script>
@@ -382,8 +423,7 @@
   <script src="assets/js/main.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
   <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
-
-
+  <link href="https://fonts.googleapis.com/css?family=Anton" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Montserrat:600" rel="stylesheet">
 </body>
-
 </html>
