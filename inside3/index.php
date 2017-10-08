@@ -22,8 +22,7 @@
     function gtag() {
       dataLayer.push(arguments);
     }
-    gtag("js", new Date());
-    
+    gtag("js", new Date());    
     gtag("config", "UA-107584552-1");
   </script>
 </head>
@@ -66,15 +65,11 @@
 
 
   <section id="imageboxes" class="main ">
-<<<<<<< HEAD
-    <div class="row">
-      <div id="overWhelmed" style="background-color:black;height: 100%;" class="col-sm-4">
-=======
-   <div class="contaner-fluid">
+
+   <div class="container-fluid">
     <div class="row" style="">
 
-      <div id="overWhelmed" style="background-color:#000000;" class="col-md-4">
->>>>>>> origin/master
+      <div id="overWhelmed" style="background-color:#000000;height: 100%;" class="col-md-4">
         <!--Overwhelmed Picture-->
         <img src="assets/images/overWhelmed.png" style="padding-top:5%;width:20%;display:block;margin:auto;"></img>
         <h3 style="color:white; text-align:center;"> Feeling Overwhelmed?</h3>
@@ -88,7 +83,7 @@
         <h3 style="text-align:center;">Tired of the Caffeine Crash?</h3>
         <h3 style="text-align:center;padding-bottom:2%">What if there was an alternative without any side effects?</h3>
       </div>
-      <div id="lackingEnergy" style="background-color:#6FAA08;" class="col-md-4">
+      <div id="lackingEnergy" style="background-color:#808080;eight: 100%;" class="col-md-4">
         <!-- Energy Picture -->
         <img src="assets/images/lackingEnergy.png" style="padding-top:5%;width:20%;display:block;margin:auto;"></img>
         <h3 style="color:white;text-align:center;">Lacking Energy?</h3>
@@ -195,7 +190,7 @@
 </section>
 
   <section id="mastermind" class="main style1 dark fullscreen">
-  	<!--<div class="row">
+  	<div class="row">
         <h3 style="color:white;">Breakthrough brain enhancer that instantaneously upgrades your memory, focus, physical and mental energy. An all natural herbal solution blend using the world’s highest and most effective ingredients. Raw unaltered product data, 100% backed by clinical research. One of
 							a kind certified product that offers an unmatched value and quality.</h3>
 						</div>
@@ -258,7 +253,7 @@
 
     </div>
 
-    </div>-->
+    </div>
   </section>
 
 
